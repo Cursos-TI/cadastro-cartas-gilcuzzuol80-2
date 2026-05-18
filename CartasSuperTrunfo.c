@@ -6,9 +6,7 @@
 
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
-printf("Olá mundo, no Codespace\n");
-printf("Exemplo de edição de código\n");
-
+int n, total;
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
